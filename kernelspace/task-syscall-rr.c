@@ -37,7 +37,6 @@ static void ku_push(job_t new_job) {
 	tmp->job = new_job;
 	INIT_LIST_HEAD(&tmp->list);
 
-	printk(KERN_INFO "KU_PUSH: Pushed new job %s\n", tmp->job.name);
 	// insert new job in the list
 	list_add_tail(&tmp->list, &processes_list);
 }
@@ -46,7 +45,6 @@ static job_t ku_pop(void) {
 	processes_list_t ret = {0};
 	processes_list_t *tmp = list_first_entry(&processes_list, processes_list_t, list);
 	ret = *tmp;
-	printk(KERN_INFO "KU_POP: return %s\n", ret.job.name);
 	list_del(&tmp->list);
 	kfree(tmp);
 	return ret.job;

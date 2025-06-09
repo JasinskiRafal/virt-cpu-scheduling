@@ -38,11 +38,12 @@ static void ku_push(job_t new_job) {
 static job_t ku_pop(void) {
 	work_stack_t ret = {0};
 	work_stack_t *tmp = list_first_entry(&work_stack, work_stack_t, list);
+
 	ret = *tmp;
 	list_del(&tmp->list);
 	kfree(tmp);
-	return ret.job;
 
+	return ret.job;
 }
 
 static bool ku_is_new_id(pid_t new_pid) {
