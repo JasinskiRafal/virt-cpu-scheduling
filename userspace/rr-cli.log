@@ -1,0 +1,8 @@
+Process A: I will use CPU for 7s.
+
+Process B: I will use CPU for 5s.
+
+Process C: I will use CPU for 3s.
+Process C finished, wait time is: 6
+Process A finished, wait time is: 6
+Process B finished, wait time is: 8

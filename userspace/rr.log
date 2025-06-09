@@ -1,0 +1,159 @@
+[   72.076938] Working A
+[   72.177801] Working A
+[   72.280112] Working A
+[   72.380229] Working A
+[   72.482782] Working A
+[   72.583349] Working A
+[   72.685592] Working A
+[   72.786659] Working A
+[   72.886836] Working A
+[   72.987981] Working A
+[   73.077123] KU_PUSH: Pushed new job A
+[   73.077123] Turn over ------> A
+[   73.177400] Working B
+[   73.285370] Working B
+[   73.385465] Working B
+[   73.485625] Working B
+[   73.586557] Working B
+[   73.687487] Working B
+[   73.787679] Working B
+[   73.888022] Working B
+[   73.989484] Working B
+[   74.077010] KU_PUSH: Pushed new job C
+[   74.090185] Working B
+[   74.107591] Turn over ------> B
+[   74.190345] KU_PUSH: Pushed new job B
+[   74.208852] Working A
+[   74.310337] Working A
+[   74.410648] Working A
+[   74.511839] Working A
+[   74.612495] Working A
+[   74.713982] Working A
+[   74.814417] Working A
+[   74.916793] Working A
+[   75.020268] Working A
+[   75.121870] Working A
+[   75.191760] Turn over ------> A
+[   75.292962] Working C
+[   75.396117] Working C
+[   75.497169] Working C
+[   75.598565] Working C
+[   75.699446] Working C
+[   75.799642] Working C
+[   75.901280] Working C
+[   76.001590] Working C
+[   76.101822] Working C
+[   76.202715] Working C
+[   76.205804] Turn over ------> C
+[   76.305885] Working B
+[   76.410779] Working B
+[   76.513801] Working B
+[   76.616410] Working B
+[   76.716496] Working B
+[   76.817187] Working B
+[   76.917306] Working B
+[   77.017857] Working B
+[   77.118475] Working B
+[   77.218500] Working B
+[   77.244437] Turn over ------> B
+[   77.352123] Working A
+[   77.458121] Working A
+[   77.564155] Working A
+[   77.665288] Working A
+[   77.765965] Working A
+[   77.866364] Working A
+[   77.969033] Working A
+[   78.070057] Working A
+[   78.170961] Working A
+[   78.271502] Working A
+[   78.336458] Turn over ------> A
+[   78.437151] Working B
+[   78.539116] Working B
+[   78.642630] Working B
+[   78.752180] Working B
+[   78.860115] Working B
+[   78.960580] Working B
+[   79.062188] Working B
+[   79.162518] Working B
+[   79.263666] Working B
+[   79.364611] Working B
+[   79.394958] Turn over ------> B
+[   79.495137] Working A
+[   79.595420] Working A
+[   79.697230] Working A
+[   79.798117] Working A
+[   79.898771] Working A
+[   80.000559] Working A
+[   80.101121] Working A
+[   80.204666] Working A
+[   80.307973] Working A
+[   80.408329] Working A
+[   80.408358] Turn over ------> A
+[   80.508704] Working C
+[   80.609145] Working C
+[   80.709679] Working C
+[   80.811378] Working C
+[   80.911601] Working C
+[   81.012508] Working C
+[   81.113236] Working C
+[   81.214339] Working C
+[   81.315689] Working C
+[   81.423222] Working C
+[   81.423241] Turn over ------> C
+[   81.524006] Working A
+[   81.624404] Working A
+[   81.725588] Working A
+[   81.827177] Working A
+[   81.928051] Working A
+[   82.028595] Working A
+[   82.129258] Working A
+[   82.232416] Working A
+[   82.332592] Working A
+[   82.436798] Working A
+[   82.436887] Turn over ------> A
+[   82.537412] Working C
+[   82.637845] Working C
+[   82.738486] Working C
+[   82.838810] Working C
+[   82.942033] Working C
+[   83.043586] Working C
+[   83.143852] Working C
+[   83.245061] Process finished: C
+[   83.245062] KU_POP: return A
+[   83.344756] Working A
+[   83.453676] Working A
+[   83.558832] Working A
+[   83.660544] Working A
+[   83.765753] Working A
+[   83.867757] Working A
+[   83.969222] Working A
+[   84.070071] Working A
+[   84.170679] Working A
+[   84.276221] Working A
+[   84.342214] Turn over ------> A
+[   84.377995] KU_PUSH: Pushed new job A
+[   84.445913] Working B
+[   84.546593] Working B
+[   84.647056] Working B
+[   84.751010] Working B
+[   84.856711] Working B
+[   84.962670] Working B
+[   85.062835] Working B
+[   85.162866] Working B
+[   85.268206] Working B
+[   85.368533] Working B
+[   85.418224] Turn over ------> B
+[   85.518799] Working A
+[   85.619181] Working A
+[   85.724294] Working A
+[   85.833038] Working A
+[   85.939565] Working A
+[   86.041333] Process finished: A
+[   86.041333] KU_POP: return B
+[   86.075761] Working B
+[   86.176072] Working B
+[   86.283450] Working B
+[   86.385144] Working B
+[   86.486783] Working B
+[   86.587151] Working B
+[   86.688555] Process finished: B
