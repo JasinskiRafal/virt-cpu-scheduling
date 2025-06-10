@@ -8,7 +8,6 @@
 [   72.786659] Working A
 [   72.886836] Working A
 [   72.987981] Working A
-[   73.077123] KU_PUSH: Pushed new job A
 [   73.077123] Turn over ------> A
 [   73.177400] Working B
 [   73.285370] Working B
@@ -19,10 +18,8 @@
 [   73.787679] Working B
 [   73.888022] Working B
 [   73.989484] Working B
-[   74.077010] KU_PUSH: Pushed new job C
 [   74.090185] Working B
 [   74.107591] Turn over ------> B
-[   74.190345] KU_PUSH: Pushed new job B
 [   74.208852] Working A
 [   74.310337] Working A
 [   74.410648] Working A
@@ -119,7 +116,6 @@
 [   83.043586] Working C
 [   83.143852] Working C
 [   83.245061] Process finished: C
-[   83.245062] KU_POP: return A
 [   83.344756] Working A
 [   83.453676] Working A
 [   83.558832] Working A
@@ -131,7 +127,6 @@
 [   84.170679] Working A
 [   84.276221] Working A
 [   84.342214] Turn over ------> A
-[   84.377995] KU_PUSH: Pushed new job A
 [   84.445913] Working B
 [   84.546593] Working B
 [   84.647056] Working B
@@ -149,7 +144,6 @@
 [   85.833038] Working A
 [   85.939565] Working A
 [   86.041333] Process finished: A
-[   86.041333] KU_POP: return B
 [   86.075761] Working B
 [   86.176072] Working B
 [   86.283450] Working B
